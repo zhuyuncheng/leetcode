@@ -24,15 +24,15 @@ class Solution {
      *   若有比当前 max 大的子段，继 续更新 max。这样一趟扫描结果也就出来了。
      */
     int maxSubArray(int[] nums) {
-        int tempSum = 0, max = 0;
-        for (int i = 0; i < nums.length; i++) {
-            tempSum += nums[i];
+        int tempSum = 0, max = nums[0];
 
-            if (tempSum > max) {
-                max = tempSum;
-            } else if (tempSum < 0) {
-                tempSum = 0;
+        for (int i = 0; i < nums.length; i++) {
+            if (tempSum > 0) {
+                tempSum += nums[i];
+            } else {
+                tempSum = nums[i];
             }
+            max = Math.max(max, tempSum);
         }
 
         return max;
@@ -40,6 +40,7 @@ class Solution {
 
     public static void main(String[] args) {
         int[] numArray = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+//        int[] numArray = {-3, -2, 0, -1};
         int max = new Solution().maxSubArray(numArray);
         System.out.println(max);
     }
