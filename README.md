@@ -15,6 +15,10 @@
 | [136](https://leetcode.com/problemset/all/?search=136)  | [只出现一次的数字](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/single_number/Solution.java) | ★★★☆☆ | 位运算、哈希表 |
 
 > #### 脚注
+>
+> 序号：官方原题序号，链接跳转到对应题目
+> 题名：代码/解析地址，指向本项目中的代码文件
+> 难度：
 > - ★★★☆☆: 简单
 > - ★★★★☆: 中等
 > - ★★★★★: 困难
@@ -24,3 +28,4 @@
 <div align=center>
   <img src="https://zhuyuncheng.top/assets/weChatQRCode/2.jpeg" width = "500"/>
 </div>
+
