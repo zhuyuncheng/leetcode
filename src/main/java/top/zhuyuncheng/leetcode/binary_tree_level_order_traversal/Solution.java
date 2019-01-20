@@ -71,7 +71,7 @@ class Solution {
 
         Solution solution = new Solution();
 
-        System.out.println(solution.levelOrder(null));
+        System.out.println(solution.levelOrder(root));
     }
 
 
