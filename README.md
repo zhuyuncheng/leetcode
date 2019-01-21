@@ -7,6 +7,7 @@
 `top.zhuyuncheng.leetcode`下的包名为题目的名称，每一个包下都有`Solution`类，`类注释`描述问题原文，`方法注释`解析问题思路，`commit message`遵循[gitmoji](https://gitmoji.carloscuesta.me/)
 
 ## 清单(TODO)
+
 | 序号 | 题名 | 难度 | 标签 |
 | ----- | ----- | ----- | ----- |
 | [53](https://leetcode.com/problemset/all/?search=53) | [最大子序和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_subarray/Solution.java) | ★★★☆☆ | 动态规划 |
@@ -16,6 +17,7 @@
 | [102](https://leetcode.com/problemset/all/?search=102)  | [二叉树的层次遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_level_order_traversal/Solution.java) | ★★★★☆ | 广度优先、树 |
 | [164](https://leetcode.com/problemset/all/?search=164)  | [最大间距](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_gap/Solution.java) | ★★★★★ | 动态规划 |
 | [104](https://leetcode.com/problemset/all/?search=104)  | [二叉树的最大深度](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_depth_of_binary_tree/Solution.java) | ★★★☆☆ | 深度优先、树 |
+| [498](https://leetcode.com/problemset/all/?search=498)  | [对角线遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/diagonal_traverse/Solution.java) | ★★★★☆ | 数组 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
 > #### 脚注
@@ -27,8 +29,13 @@
 > - ★★★★☆: 中等
 > - ★★★★★: 困难
 
+## 为什么要写算法
+
+ // TODO
+
 ## 最后骗一波关注
-请关注我的个人微信订阅号
+
+请扫码或搜索"小疯子呵呵哒"关注我的个人微信订阅号
 <div align=center>
   <img src="https://zhuyuncheng.top/assets/weChatQRCode/2.jpeg" width = "500"/>
 </div>
