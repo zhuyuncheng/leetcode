@@ -18,6 +18,7 @@
 | [164](https://leetcode.com/problemset/all/?search=164)  | [最大间距](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_gap/Solution.java) | ★★★★★ | 动态规划 |
 | [104](https://leetcode.com/problemset/all/?search=104)  | [二叉树的最大深度](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_depth_of_binary_tree/Solution.java) | ★★★☆☆ | 深度优先、树 |
 | [498](https://leetcode.com/problemset/all/?search=498)  | [对角线遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/diagonal_traverse/Solution.java) | ★★★★☆ | 数组 |
+| [74](https://leetcode.com/problemset/all/?search=74)  | [搜索二维矩阵](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/search_a_2d_matrix/Solution.java) | ★★★★☆ | 数组、二分查找 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
 > #### 脚注
