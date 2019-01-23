@@ -19,6 +19,7 @@
 | [104](https://leetcode.com/problemset/all/?search=104)  | [二叉树的最大深度](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_depth_of_binary_tree/Solution.java) | ★★★☆☆ | 深度优先、树 |
 | [498](https://leetcode.com/problemset/all/?search=498)  | [对角线遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/diagonal_traverse/Solution.java) | ★★★★☆ | 数组 |
 | [74](https://leetcode.com/problemset/all/?search=74)  | [搜索二维矩阵](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/search_a_2d_matrix/Solution.java) | ★★★★☆ | 数组、二分查找 |
+| [19](https://leetcode.com/problemset/all/?search=19)  | [删除链表的倒数第N个节点](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/remove_nth_node_from_end_of_list/Solution.java) | ★★★★☆ | 链表、双指针 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
 > #### 脚注
