@@ -22,6 +22,7 @@
 | [19](https://leetcode.com/problemset/all/?search=19)  | [删除链表的倒数第N个节点](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/remove_nth_node_from_end_of_list/Solution.java) | ★★★★☆ | 链表、双指针 |
 | [780](https://leetcode.com/problemset/all/?search=780)  | [到达终点](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/reaching_points/Solution.java) | ★★★★★ | 数学 |
 | [485](https://leetcode.com/problemset/all/?search=485)  | [最大连续1的个数](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/max_consecutive_ones/Solution.java) | ★★★☆☆ | 数组 |
+| [718](https://leetcode.com/problemset/all/?search=718)  | [最长重复子数组](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_length_of_repeated_subarray/Solution.java) | ★★★★☆ | 数组、哈希表、二分查找、动态规划 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
 > #### 脚注
