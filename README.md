@@ -32,6 +32,7 @@
 | [55](https://leetcode.com/problemset/all/?search=55)  | [跳跃游戏](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/jump_game/Solution.java) | ★★★★☆ | 贪心算法、数组 |
 | [110](https://leetcode.com/problemset/all/?search=110)  | [平衡二叉树](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/balanced_binary_tree/Solution.java) | ★★★☆☆ | 树、深度优先 |
 | [94](https://leetcode.com/problemset/all/?search=94)  | [二叉树的中序遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_inorder_traversal/Solution.java) | ★★★★☆ | 栈、树、哈希表 |
+| [144](https://leetcode.com/problemset/all/?search=144)  | [二叉树的前序遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_preorder_traversal/Solution.java) | ★★★★☆ | 栈、树 |
 | [257](https://leetcode.com/problemset/all/?search=257)  | [二叉树的所有路径](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_paths/Solution.java) | ★★★☆☆ | 栈、树、哈希表 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
