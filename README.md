@@ -10,6 +10,7 @@
 
 | 序号 | 题名 | 难度 | 标签 |
 | ----- | ----- | ----- | ----- |
+| [1](https://leetcode.com/problemset/all/?search=1) | [两数之和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/two_sum/Solution.java) | ★★★☆☆ | 数组、哈希表 |
 | [53](https://leetcode.com/problemset/all/?search=53) | [最大子序和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/maximum_subarray/Solution.java) | ★★★☆☆ | 动态规划 |
 | [746](https://leetcode.com/problemset/all/?search=746)  | [使用最小花费爬楼梯](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/min_cost_climbing_stairs/Solution.java) | ★★★☆☆ | 动态规划 |
 | [199](https://leetcode.com/problemset/all/?search=199)  | [二叉树的右视图](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_right_side_view/Solution.java) | ★★★★☆ | 深度优先、广度优先 |
