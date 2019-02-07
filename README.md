@@ -36,6 +36,7 @@
 | [102](https://leetcode.com/problemset/all/?search=102)  | [二叉树的层次遍历](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_level_order_traversal/Solution.java) | ★★★★☆ | 广度优先、树 |
 | [107](https://leetcode.com/problemset/all/?search=107)  | [二叉树的层次遍历 II](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_level_order_traversal_ii/Solution.java) | ★★★☆☆ | 广度优先、树 |
 | [257](https://leetcode.com/problemset/all/?search=257)  | [二叉树的所有路径](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_paths/Solution.java) | ★★★☆☆ | 栈、树、哈希表 |
+| [141](https://leetcode.com/problemset/all/?search=141)  | [环形链表](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/linked_list_cycle/Solution.java) | ★★★☆☆ | 链表、双指针 |
 | -- | -- | -- | -- |
 | -- | [二叉树链路求和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/binary_tree_link/Solution.java) | ★★★★☆ | 深度优先、树 |
 > #### 脚注
