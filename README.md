@@ -51,6 +51,7 @@
 | [21](https://leetcode.com/problemset/all/?search=21)  | [合并两个有序链表](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/merge_two_sorted_lists/Solution.java) | ★★★☆☆ | 链表 |
 | [292](https://leetcode.com/problemset/all/?search=292)  | [Nim游戏](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/nim_game/Solution.java) | ★★★☆☆ | brainteaser |
 | [334](https://leetcode.com/problemset/all/?search=334)  | [递增的三元子序列](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/increasing_triplet_subsequence/Solution.java) | ★★★★☆ | 贪心、数组 |
+| [300](https://leetcode.com/problemset/all/?search=300)  | [最长上升子序列](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/longest_increasing_subsequence/Solution.java) | ★★★★☆ | 二分查找、动态规划 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
