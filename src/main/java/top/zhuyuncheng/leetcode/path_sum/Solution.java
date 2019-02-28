@@ -18,6 +18,11 @@ package top.zhuyuncheng.leetcode.path_sum;
  * 返回 true, 因为存在目标和为 22 的根节点到叶子节点的路径 5->4->11->2。
  */
 class Solution {
+
+    /*
+     *  这个题目只要有一跳路径和为22 即为true
+     *  所以递归减法的方式如果 == 0 就 return true
+     */
     public boolean hasPathSum(TreeNode root, int sum) {
         if (root == null) {
             return false;
