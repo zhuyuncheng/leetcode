@@ -55,6 +55,7 @@
 | [300](https://leetcode.com/problemset/all/?search=300)  | [最长上升子序列](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/longest_increasing_subsequence/Solution.java) | ★★★★☆ | 二分查找、动态规划 |
 | [113](https://leetcode.com/problemset/all/?search=113)  | [路径总和 II](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/path_sum_ii/Solution.java) | ★★★★☆ | 树、深度遍历 |
 | [437](https://leetcode.com/problemset/all/?search=437)  | [路径总和 III](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/path_sum_iii/Solution.java) | ★★★☆☆ | 树、深度遍历 |
+| [404](https://leetcode.com/problemset/all/?search=404)  | [左叶子之和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sum_of_left_leaves/Solution.java) | ★★★☆☆ | 树、深度遍历 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
