@@ -58,6 +58,7 @@
 | [404](https://leetcode.com/problemset/all/?search=404)  | [左叶子之和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sum_of_left_leaves/Solution.java) | ★★★☆☆ | 树、深度遍历 |
 | [155](https://leetcode.com/problemset/all/?search=155)  | [最小栈](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/min_stack/Solution.java) | ★★★☆☆ | 栈、设计 |
 | [70](https://leetcode.com/problemset/all/?search=70)  | [爬楼梯](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/climbing_stairs/Solution.java) | ★★★☆☆ | 动态规划 |
+| [2](https://leetcode.com/problemset/all/?search=2)  | [两数相加](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/add_two_numbers/Solution.java) | ★★★★☆ | 链表、数学 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
