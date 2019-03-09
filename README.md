@@ -63,6 +63,7 @@
 | [202](https://leetcode.com/problemset/all/?search=202)  | [快乐数](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/happy_number/Solution.java) | ★★★☆☆ | 哈希表、数学 |
 | [258](https://leetcode.com/problemset/all/?search=258)  | [各位相加](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/add_digits/Solution.java) | ★★★☆☆ | 哈希表 |
 | [169](https://leetcode.com/problemset/all/?search=169)  | [求众数](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/majority_element/Solution.java) | ★★★☆☆ | 位运算、数组、分治 |
+| [371](https://leetcode.com/problemset/all/?search=371)  | [两整数之和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sum_of_two_integers/Solution.java) | ★★★☆☆ | 位运算、数组、分治 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
