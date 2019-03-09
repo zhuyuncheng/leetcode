@@ -61,6 +61,7 @@
 | [70](https://leetcode.com/problemset/all/?search=70)  | [爬楼梯](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/climbing_stairs/Solution.java) | ★★★☆☆ | 动态规划 |
 | [2](https://leetcode.com/problemset/all/?search=2)  | [两数相加](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/add_two_numbers/Solution.java) | ★★★★☆ | 链表、数学 |
 | [202](https://leetcode.com/problemset/all/?search=202)  | [快乐数](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/happy_number/Solution.java) | ★★★☆☆ | 哈希表、数学 |
+| [258](https://leetcode.com/problemset/all/?search=258)  | [各位相加](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/add_digits/Solution.java) | ★★★☆☆ | 哈希表 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
