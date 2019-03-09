@@ -15,7 +15,7 @@ package top.zhuyuncheng.leetcode.increasing_triplet_subsequence;
  * 输入: [5,4,3,2,1]
  * 输出: false
  */
-class Soultion {
+class Solution {
 
     /*
     * a[k] > a[j] > a[i]: 先找到两个最小的数 (a[j] > a[i]) 当有大于a[j]的时候，即return true 否则 return false
@@ -40,7 +40,7 @@ class Soultion {
 
     public static void main(String[] args) {
         int[] nums = {1, 2, -2, 6};
-        Soultion soultion = new Soultion();
-        System.out.println(soultion.increasingTriplet(nums));
+        Solution solution = new Solution();
+        System.out.println(solution.increasingTriplet(nums));
     }
 }

@@ -14,7 +14,7 @@ package top.zhuyuncheng.leetcode.longest_increasing_subsequence;
  * 你算法的时间复杂度应该为 O(n2) 。
  * 进阶: 你能将算法的时间复杂度降低到 O(n log n) 吗?
  */
-class Soultion {
+class Solution {
     public int lengthOfLIS(int[] nums) {
         int len = nums.length;
         if (len <= 1) {
@@ -50,7 +50,7 @@ class Soultion {
 
     public static void main(String[] args) {
         int[] nums = {10, 9, 2, 5, 3, 7, 101, 18};
-        Soultion soultion = new Soultion();
-        System.out.println(soultion.lengthOfLIS(nums));
+        Solution solution = new Solution();
+        System.out.println(solution.lengthOfLIS(nums));
     }
 }
