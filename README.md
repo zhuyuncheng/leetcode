@@ -65,6 +65,7 @@
 | [169](https://leetcode.com/problemset/all/?search=169)  | [求众数](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/majority_element/Solution.java) | ★★★☆☆ | 位运算、数组、分治 |
 | [371](https://leetcode.com/problemset/all/?search=371)  | [两整数之和](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sum_of_two_integers/Solution.java) | ★★★☆☆ | 位运算、数组、分治 |
 | [412](https://leetcode.com/problemset/all/?search=412)  | [Fizz Buzz](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/fizz_buzz/Solution.java) | ★★★☆☆ |  |
+| [167](https://leetcode.com/problemset/all/?search=167)  | [两数之和 II - 输入有序数组](https://github.com/zhuyuncheng/daily_leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/two_sum_ii_input_array_is_sorted/Solution.java) | ★★★☆☆ |  |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
