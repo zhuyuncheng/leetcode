@@ -42,6 +42,7 @@
 | [226](https://leetcode.com/problemset/all/?search=226)  | [翻转二叉树](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/invert_binary_tree/Solution.java) | ★★★★☆ | 树 |
 | [101](https://leetcode.com/problemset/all/?search=101)  | [对称二叉树](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/symmetric_tree/Solution.java) | ★★★★☆ | 树、深度优先、广度优先 |
 | [700](https://leetcode.com/problemset/all/?search=700)  | [二叉搜索树中的搜索](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/search_in_a_binary_search_tree/Solution.java) | ★★★☆☆ | 树 |
+| [701](https://leetcode.com/problemset/all/?search=700)  | [Insert into a Binary Search Tree](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/insert_into_a_binary_search_tree/Solution.java) | ★★★★☆ | 树 |
 | [112](https://leetcode.com/problemset/all/?search=112)  | [路径总和](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/path_sum/Solution.java) | ★★★☆☆ | 树、深度优先 |
 | [141](https://leetcode.com/problemset/all/?search=141)  | [环形链表](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/linked_list_cycle/Solution.java) | ★★★☆☆ | 链表、双指针 |
 | [237](https://leetcode.com/problemset/all/?search=237)  | [删除链表中的节点](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/delete_node_in_a_linked_list/Solution.java) | ★★★☆☆ | 链表 |
