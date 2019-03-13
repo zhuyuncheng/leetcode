@@ -67,6 +67,7 @@
 | [412](https://leetcode.com/problemset/all/?search=412)  | [Fizz Buzz](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/fizz_buzz/Solution.java) | ★★★☆☆ |  |
 | [167](https://leetcode.com/problemset/all/?search=167)  | [两数之和 II - 输入有序数组](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/two_sum_ii_input_array_is_sorted/Solution.java) | ★★★☆☆ | 数组、双指针、二分查找 |
 | [20](https://leetcode.com/problemset/all/?search=20)  | [有效的括号](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/valid_parentheses/Solution.java) | ★★★☆☆ | 栈、字符串 |
+| [32](https://leetcode.com/problemset/all/?search=32)  | [最长有效括号](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/longest_valid_parentheses/Solution.java) | ★★★★★ | 栈、字符串、动态规划 |
 | [703](https://leetcode.com/problemset/all/?search=703)  | [数据流中的第K大元素](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/kth_largest_element_in_a_stream/KthLargest.java) | ★★★☆☆ | 堆 |
 | [239](https://leetcode.com/problemset/all/?search=239)  | [滑动窗口最大值](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sliding_window_maximum/KthLargest.java) | ★★★★★ | 堆、队列、滑动窗口 |
 | [561](https://leetcode.com/problemset/all/?search=561)  | [数组拆分 I](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/array_partition_i/KthLargest.java) | ★★★☆☆ | 数组 |
