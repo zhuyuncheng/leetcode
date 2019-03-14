@@ -69,8 +69,9 @@
 | [20](https://leetcode.com/problemset/all/?search=20)  | [有效的括号](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/valid_parentheses/Solution.java) | ★★★☆☆ | 栈、字符串 |
 | [32](https://leetcode.com/problemset/all/?search=32)  | [最长有效括号](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/longest_valid_parentheses/Solution.java) | ★★★★★ | 栈、字符串、动态规划 |
 | [703](https://leetcode.com/problemset/all/?search=703)  | [数据流中的第K大元素](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/kth_largest_element_in_a_stream/KthLargest.java) | ★★★☆☆ | 堆 |
-| [239](https://leetcode.com/problemset/all/?search=239)  | [滑动窗口最大值](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sliding_window_maximum/KthLargest.java) | ★★★★★ | 堆、队列、滑动窗口 |
-| [561](https://leetcode.com/problemset/all/?search=561)  | [数组拆分 I](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/array_partition_i/KthLargest.java) | ★★★☆☆ | 数组 |
+| [239](https://leetcode.com/problemset/all/?search=239)  | [滑动窗口最大值](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sliding_window_maximum/Solution.java) | ★★★★★ | 堆、队列、滑动窗口 |
+| [561](https://leetcode.com/problemset/all/?search=561)  | [数组拆分 I](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/array_partition_i/Solution.java) | ★★★☆☆ | 数组 |
+| [344](https://leetcode.com/problemset/all/?search=344)  | [反转字符串](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/reverse_string/Solution.java) | ★★★☆☆ | 双指针、字符串 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
