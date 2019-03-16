@@ -72,6 +72,7 @@
 | [239](https://leetcode.com/problemset/all/?search=239)  | [滑动窗口最大值](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sliding_window_maximum/Solution.java) | ★★★★★ | 堆、队列、滑动窗口 |
 | [561](https://leetcode.com/problemset/all/?search=561)  | [数组拆分 I](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/array_partition_i/Solution.java) | ★★★☆☆ | 数组 |
 | [344](https://leetcode.com/problemset/all/?search=344)  | [反转字符串](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/reverse_string/Solution.java) | ★★★☆☆ | 双指针、字符串 |
+| [26](https://leetcode.com/problemset/all/?search=26)  | [删除排序数组中的重复项](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/remove_duplicates_from_sorted_array/Solution.java) | ★★★☆☆ | 数组、双指针 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
