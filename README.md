@@ -73,6 +73,7 @@
 | [561](https://leetcode.com/problemset/all/?search=561)  | [数组拆分 I](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/array_partition_i/Solution.java) | ★★★☆☆ | 数组 |
 | [344](https://leetcode.com/problemset/all/?search=344)  | [反转字符串](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/reverse_string/Solution.java) | ★★★☆☆ | 双指针、字符串 |
 | [26](https://leetcode.com/problemset/all/?search=26)  | [删除排序数组中的重复项](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/remove_duplicates_from_sorted_array/Solution.java) | ★★★☆☆ | 数组、双指针 |
+| [349](https://leetcode.com/problemset/all/?search=349)  | [两个数组的交集](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/intersection_of_two_arrays/Solution.java) | ★★★☆☆ | 排序、哈希表、二分查找、双指针 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
