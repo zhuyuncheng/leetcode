@@ -77,6 +77,7 @@
 | [350](https://leetcode.com/problemset/all/?search=350)  | [两个数组的交集 II](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/intersection_of_two_arrays_ii/Solution.java) | ★★★☆☆ | 排序、哈希表、二分查找、双指针 |
 | [66](https://leetcode.com/problemset/all/?search=66)  | [加一](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/plus_one/Solution.java) | ★★★☆☆ | 数组 |
 | [287](https://leetcode.com/problemset/all/?search=287)  | [寻找重复数](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/find_the_duplicate_number/Solution.java) | ★★★★☆ | 数组、双指针、二分查找 |
+| [88](https://leetcode.com/problemset/all/?search=88)  | [合并两个有序数组](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/merge_sorted_array/Solution.java) | ★★★☆☆ | 数组、双指针 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
