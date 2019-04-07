@@ -78,6 +78,7 @@
 | [66](https://leetcode.com/problemset/all/?search=66)  | [加一](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/plus_one/Solution.java) | ★★★☆☆ | 数组 |
 | [287](https://leetcode.com/problemset/all/?search=287)  | [寻找重复数](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/find_the_duplicate_number/Solution.java) | ★★★★☆ | 数组、双指针、二分查找 |
 | [88](https://leetcode.com/problemset/all/?search=88)  | [合并两个有序数组](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/merge_sorted_array/Solution.java) | ★★★☆☆ | 数组、双指针 |
+| [268](https://leetcode.com/problemset/all/?search=268)  | [缺失数字](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/missing_number/Solution.java) | ★★★☆☆ | 数组、数学、位运算 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
