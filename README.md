@@ -79,6 +79,7 @@
 | [287](https://leetcode.com/problemset/all/?search=287)  | [寻找重复数](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/find_the_duplicate_number/Solution.java) | ★★★★☆ | 数组、双指针、二分查找 |
 | [88](https://leetcode.com/problemset/all/?search=88)  | [合并两个有序数组](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/merge_sorted_array/Solution.java) | ★★★☆☆ | 数组、双指针 |
 | [268](https://leetcode.com/problemset/all/?search=268)  | [缺失数字](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/missing_number/Solution.java) | ★★★☆☆ | 数组、数学、位运算 |
+| [129](https://leetcode.com/problemset/all/?search=129)  | [求根到叶子节点数字之和](https://github.com/zhuyuncheng/leetcode/blob/master/src/main/java/top/zhuyuncheng/leetcode/sum_root_to_leaf_numbers/Solution.java) | ★★★★☆ | 树、深度优先 |
 | -- | -- | -- | -- |
 
 | - | 题名 | 难度 | 标签 |
